@@ -19,7 +19,7 @@ with st.sidebar:
                             'Heart Disease Prediction',
                             'Parkinson Disease Prediction'],
 
-                           default_index=2,
+                           default_index=0,
 
                            icons=['activity', 'clipboard2-heart', 'person'])
 
